@@ -13,8 +13,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    [Parse setApplicationId:@"rRUxiXW8F5hn3UaVKy5A2wygSbbcc4QP9g6TyLIQ"
-                  clientKey:@"PCyUquAQeQvia0Vgm0ZQZHs34x6bUX1iRZeieywX"];
+    [Parse setApplicationId:@""
+                  clientKey:@""];
 
     [PFUser enableAutomaticUser];
     
